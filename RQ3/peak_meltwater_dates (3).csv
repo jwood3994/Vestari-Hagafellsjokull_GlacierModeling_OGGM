@@ -1,0 +1,16 @@
+GCM,SSP,Peak Date
+gfdl-esm4_r1i1p1f1,ssp126,1970-01-01
+gfdl-esm4_r1i1p1f1,ssp370,1970-01-01
+gfdl-esm4_r1i1p1f1,ssp585,1970-01-01
+mpi-esm1-2-hr_r1i1p1f1,ssp126,1970-01-01
+mpi-esm1-2-hr_r1i1p1f1,ssp370,1970-01-01
+mpi-esm1-2-hr_r1i1p1f1,ssp585,1970-01-01
+mri-esm2-0_r1i1p1f1,ssp126,1970-01-01
+mri-esm2-0_r1i1p1f1,ssp370,1970-01-01
+mri-esm2-0_r1i1p1f1,ssp585,1970-01-01
+ipsl-cm6a-lr_r1i1p1f1,ssp126,1970-01-01
+ipsl-cm6a-lr_r1i1p1f1,ssp370,1970-01-01
+ipsl-cm6a-lr_r1i1p1f1,ssp585,1970-01-01
+ukesm1-0-ll_r1i1p1f2,ssp126,1970-01-01
+ukesm1-0-ll_r1i1p1f2,ssp370,1970-01-01
+ukesm1-0-ll_r1i1p1f2,ssp585,1970-01-01
