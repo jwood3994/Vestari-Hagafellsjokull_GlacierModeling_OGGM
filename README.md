@@ -9,3 +9,4 @@ years and test OGGM derived mass balance to in-situ mass balance records.
    
 3. Create future projections of the glacier for the year 2100 using different climate models and to asses area, volume and run-off patterns simulated by the model.
 
+4. Assess the significance of findings in broader terms of Iceland's hydroelectric industry and comparing results to previous simulations/other forms of glacier and hydrological modelling.
